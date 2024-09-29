@@ -1,4 +1,4 @@
-# 💱 Currency Converter
+# 💱 Convert
 
 Este é um projeto simples de **conversão de moedas** desenvolvido em JavaScript. Ele permite que você insira um valor e selecione uma moeda para converter em Reais (BRL).
 
