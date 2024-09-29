@@ -24,11 +24,17 @@ Este é um projeto simples de **conversão de moedas** desenvolvido em JavaScrip
 
 ## 🔧 Como Usar
 
-1. Clone este repositório:
+**1.** Clone este repositório:
 
 ```bash
 git clone https://github.com/joschonarth/convert.git
 ```
+
+**2.** Abra o arquivo `index.html` no seu navegador.
+
+**3.** Insira o valor a ser convertido.
+
+**4.** Escolha a moeda desejada e veja o resultado da conversão em Reais.
 
 ## 📝 Observações
 O projeto utiliza valores fixos de conversão para cada moeda. As taxas podem não refletir as cotações atuais do mercado.
